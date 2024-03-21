@@ -1,7 +1,1 @@
 # salwa0x
-# https://tea.xyz/what-is-this-file
----
-version: 1.0.0
-codeOwners:
-  - '0x77840E1866D45BA8ad67aE9f272c176efe3c53F2'
-quorum: 1
